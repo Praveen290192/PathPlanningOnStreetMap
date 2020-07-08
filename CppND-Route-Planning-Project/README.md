@@ -2,8 +2,8 @@
 
 This repo contains the starter code for the Route Planning project.
 
-<img src="map.png" width="600" height="450" />
-<img src="Path_map.jpg" width="600" height="450" />
+
+<img src="Path_map.JPG" width="600" height="450" />
 
 ## Cloning
 
